@@ -1,4 +1,4 @@
-# PLN
+# PLN: Practica 1
 Objetivo: Preprocesar un corpus a partir de metodos basados en lenguajes formales.
 
 Pasos a seguir:
